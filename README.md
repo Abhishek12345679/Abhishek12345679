@@ -26,7 +26,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abhishek12345679&show_icons=true&hide_border=true" />
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abhishek12345679&show_icons=true&hide_border=true" />
 
 [website]: https://doggohoomanagecalculator.netlify.app/
 [twitter]: https://twitter.com/Bhisheksah
