@@ -28,6 +28,9 @@
 <br/>
 <br/>
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhishek spotify playing" width="700" />](https://open.spotify.com/track/2eD5bmknmcojiCxoKpvVTI?si=4SUJ0l4aREOj3G0s_bV_5w)
+
 [website]: https://doggohoomanagecalculator.netlify.app/
 [twitter]: https://twitter.com/Bhisheksah
 [youtube]: https://www.youtube.com/channel/UC8r9aat3_bMs-OPsUDV9BTg
