@@ -1,7 +1,7 @@
 👋 Hi! I am Abhishek </br>
-📚 I am trying to better myself at react native and stuff that goes along with it irl</br>
-👨‍🎓 I am in my 5th Semester </br>
+📚 I am trying to better myself</br>
+👨‍🎓 I am in my 5th Semester at AUK </br>
 
 
-⚛️ I have self-taught myself React Native (TS) </br>
+⚛️ I have self-taught myself Javascript/Typescript , and React/React Native </br>
 🐍 Also, know some python for web scraping and tinkering </br>
